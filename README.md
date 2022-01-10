@@ -8,6 +8,19 @@ Traverses Santa Catalina Island off the coast of southern California. From the e
 
 Flexible but looking at four days in mid-May.
 
+## Route 
+
+
+| Day | Dest| Miles (total) | Miles (day) | Elevation (feet)| Est time (hours)| Water (miles) |
+|-----|--------------------|---------------|-------------|-----------|----------|-------|
+| 0   | Hermit Gulch       | 1.7| 1.7| 279| 0.7| Any|
+| 1   | Black Jack         | 10.8| 9.1| 2,710| 4.4| 4|
+| 2   | Two Harbors        | 25.1| 14.3| 2,431| 6.0| 2,8|
+| 3.1 | Parson's landing   |32.3 |7.2 |1,929 | 3.4| None|
+| 3.2 | Starlight day trip |41.4 |9.1 |1,821 | 3.9| None|
+|   4 | Two Harbors        |49 |7.6 |745 | 2.9| None|
+
+
 ## Getting there.
 
 We will have to take a ferry to Avalon. Ferry services are operated by [CATALINA EXPRESS or CATALINA FLYER](https://www.lovecatalina.com/island-info/get-here/passenger-ferry/). From the ferry terminal it is about a 2 mile walk to the official Trailhead.
