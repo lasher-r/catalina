@@ -21,6 +21,16 @@ Flexible but looking at four days in mid-May.
 |   4 | Two Harbors        |49 |7.6 |745 | 2.9| None|
 
 
+## Food planning
+
+| Day | Dest             | Breakfast | Lunch | Snack | Dinner |
+|-----|------------------|-----------|-------|-------|--------|
+| 0   | Hermit Gulch     | Home      | Town  | Town  | Town   |
+| 1   | Black Jack       | Town      | Town  | x     | x      |
+| 2   | Two Harbors      | x         | x     | x     | Town   |
+| 3   | Parson's landing | Town      | x     | x     | x      |
+| 4   | Two Harbors      | x         | x     | x     | Town   |
+
 ## Getting there.
 
 We will have to take a ferry to Avalon. Ferry services are operated by [CATALINA EXPRESS or CATALINA FLYER](https://www.lovecatalina.com/island-info/get-here/passenger-ferry/). From the ferry terminal it is about a 2 mile walk to the official Trailhead.
